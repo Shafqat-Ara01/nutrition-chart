@@ -1,0 +1,114 @@
+body {
+  height: 100vh;
+  background-color: #fec89a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+#container{
+    width: 800;
+    height: 700px;
+
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+}
+#chart {
+  height: 600px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  background-color:#c49570;
+  padding: 15px;
+  box-sizing: border-box;
+  overflow: auto;
+  border: 2px solid black;
+  border-radius: 12px;
+}
+#recipe{
+    padding-top: 70px;
+    height: 600px;
+width: 390px;
+margin-left: 15px;
+
+border-radius: 12px;
+background-color:#fec89a;
+
+}
+h1 {
+  margin: 13px;
+}
+.Name{
+    font-family: poppins;
+   position: relative;
+   left: 20px;
+}
+h2 {
+  margin-bottom: 4px;
+}
+h3 {
+  margin: 4px;
+}
+hr {
+  width: 100%; /*Ensures horizontal lines stay within the container */
+}
+
+.size {
+  display: flex;
+  justify-content: space-between;
+}
+#value {
+  display: flex;
+  justify-content: flex-end;
+}
+#fat {
+  display: flex;
+  justify-content: space-between;
+}
+#saturated-fat {
+  display: flex;
+  justify-content: space-between;
+}
+#chalestrol {
+  display: flex;
+  justify-content: space-between;
+}
+#sodium {
+  display: flex;
+  justify-content: space-between;
+}
+#dietary_Fibre {
+  display: flex;
+  justify-content: space-between;
+}
+#total-sugars {
+  display: flex;
+  justify-content: space-between;
+}
+#added-sugar {
+  display: flex;
+  justify-content: space-between;
+}
+#protein {
+  display: flex;
+  justify-content: space-between;
+}
+#vitamine {
+  display: flex;
+  justify-content: space-between;
+}
+#calcium {
+  display: flex;
+  justify-content: space-between;
+}
+#iron {
+  display: flex;
+  justify-content: space-between;
+}
+#potassium {
+  display: flex;
+  justify-content: space-between;
+}
