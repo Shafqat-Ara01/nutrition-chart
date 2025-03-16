@@ -16,8 +16,6 @@ The **Nutrition Chart** project is a simple HTML and CSS-based webpage that visu
 - CSS
 - Google Fonts
 
-- ## Live Demo
-Check out the live version here: [Nutrition Chart Hub](https://nutritioncharthub.netlify.app/)
 
 ## Notes
 - Ensure you are connected to the internet to load Google Fonts properly.
